@@ -1,0 +1,10 @@
+{
+    "name": "docto/zadaniye",
+    "authors": [
+        {
+            "name": "Sergei Musienko",
+            "email": "doctorradial@gmail.com"
+        }
+    ],
+    "require": {}
+}

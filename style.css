@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #031321;
+	font-family: consolas; 
+}
+#resultP{
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+#convertBtn{
+    margin: 10px;
+    border: none;
+    transition: 0.5s;
+}
+#convertBtn:hover{
+    background-color: black;
+    color: white;
+}
